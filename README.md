@@ -8,7 +8,7 @@ Engine Girls是一个专门面对女性的零基础编程课程，在这个课�
 作为赞助方的你，当然可以享受很多有利的特权啦，比如可以借此机会招贤纳士啦（说不定学员中的程序媛以后就进了你们公司咧），你可以在我们的场地中放置公司的展示架子或海报，你可以利用我们的公众号为你们公司进行推送，你也可以在现场现场对你们公司进行业务介绍等等。如果你有兴趣对我们进行赞助，更多的细节有待商谈
 你可以点击[这里](https://mp.weixin.qq.com/s?__biz=MzIzMjQzODkxNQ==&mid=2247483703&idx=1&sn=db56a3346d9fc7ce0b3aeb873716275b&chksm=e895acdbdfe225cdfd060ad98985bfb1c2c160e803be07677ca47e9d5041cb0fdf8cd8267706&mpshare=1&scene=1&srcid=0317lgeQ137qCo2XDXdNz5u7#rd)了解更多关于Engine girls更详尽的信息。
 
-如果感兴趣，请联系*wiwindson@outlook.com*，如果有任何疑问也可以发邮件到这两个邮箱与我们联系，希望可以得到你们的支持和鼓励。
+如果感兴趣，请联系*wiwindson@outlook.com*，如果有任何疑问也可以发邮件到这个邮箱与我们联系，希望可以得到你们的支持和鼓励。
 
 ___
 ### what is Engine Girls

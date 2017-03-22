@@ -1,3 +1,42 @@
+### Hello
+
+    class EngineGirls:
+        def __init__(self, money):
+            self.money = money
+            # We will live our course in live platform (douyu).
+            # Theoretically,we get much more members than this.
+            self.members = 100
+
+
+    class Sponsor:
+        def __init__(self, money):
+            self.money = money
+            self.fans = 0
+
+    # We need 2000 RMB at this time.
+    you = Sponsor(2000)
+    # we get our first 1000 RMB from our teacher QiuQiu :D
+    our = EngineGirls(1000)
+
+
+    def sponsor(sponsor, target):
+        try:
+            sponsor.money -= 2000
+            target.money += 2000
+        except:
+            return False
+        return True
+
+    if sponsor(you, our):
+        # Thanks for sponsor us!
+        you.kindness = 100
+        # We will introduce your company to our members and lovely teachers.
+        you.fans += our.members
+        # We will show your poster and display_stand in our classroom.
+        you.poster = True
+        you.display_stand = True
+
+
 ### 我们是谁
 Engine Girls是一个由热爱编程并且关注性别平等的攻城狮开发的编程教学组织，主要面向零编程基础又热爱编程的女性。学生可以自由选择软件开发、微信开发、数据分析等方面她们感兴趣的课题，在导师的指导下，组队合作完成项目。我们希望通过有趣的课堂教学活动让原本认为写代码“枯燥难懂”的女生爱上编程，让更多的女性能够加入程序员的大家庭。
 

@@ -15,23 +15,23 @@
 
     # We need 2000 RMB at this time.
     you = Sponsor(2000)
-    # we get our first 1000 RMB from our teacher QiuQiu :D
-    our = EngineGirls(1000)
+    # we received our first 1000 RMB from our teacher QiuQiu :D
+    us = EngineGirls(1000)
 
 
-    def sponsor(sponsor, target):
+    def sponsor(sponsor, sponsored):
         try:
             sponsor.money -= 2000
-            target.money += 2000
+            sponsored.money += 2000
         except:
             return False
         return True
 
-    if sponsor(you, our):
-        # Thanks for sponsor us!
+    if sponsor(you, us):
+        # Thanks for sponsoring us!
         you.kindness = 100
         # We will introduce your company to our members and lovely teachers.
-        you.fans += our.members
+        you.fans += us.members
         # We will show your poster and display_stand in our classroom.
         you.poster = True
         you.display_stand = True

@@ -61,5 +61,4 @@ As a sponsor, you definitely have privileges. You could recruit your prospective
 
 you can learn more about us by clicking [here](https://mp.weixin.qq.com/s?__biz=MzIzMjQzODkxNQ==&mid=2247483703&idx=1&sn=db56a3346d9fc7ce0b3aeb873716275b&chksm=e895acdbdfe225cdfd060ad98985bfb1c2c160e803be07677ca47e9d5041cb0fdf8cd8267706&mpshare=1&scene=1&srcid=0317lgeQ137qCo2XDXdNz5u7#rd) to learn more about Engine Girls' detail info。
 
-If you are interested in sponsorship or have further questions，please do not hesitate to contact us by sending emails to *wiwindson@outlook.com. We are looking forward to hearing from you!
-
+If you are interested in sponsorship or have further questions，please do not hesitate to contact us by sending emails to *wiwindson@outlook.com*. We are looking forward to hearing from you!
